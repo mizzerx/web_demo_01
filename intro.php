@@ -9,5 +9,6 @@
     <img src="images/img_1.jpg" alt="?????" width = "900" height = "700">
     <h2>Cyber Spaces ROG</h2>
     <a href="index.php">Index</a>
+    <a href="ex2.php">Go to Ex2</a>
 </body>
 </html>
