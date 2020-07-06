@@ -6,7 +6,7 @@
     <title>Intro PHP</title>
 </head>
 <body>
-    <img src="images/img_1.jpg" alt="?????" width = "600" height = "700">
+    <img src="images/img_1.jpg" alt="?????" width = "900" height = "700">
     <h2>Cyber Spaces ROG</h2>
     <a href="index.php">Index</a>
 </body>
