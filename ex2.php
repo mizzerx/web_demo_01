@@ -8,9 +8,8 @@
 <body>
     <h1>Bang cuu chuong x7</h1>
     <?php
-    for ($i = 1; i < 10; i++)
-    {
-        echo "7 x " . $i . " = " . 7 * $i . "<br>"
+    for ($i = 1; $i < 10; $i++) {
+        echo "7 x " . $i . " = " . 7 * $i . "<br>";
     }
     ?>
 </body>
