@@ -3,9 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Index</title>
+    <title>Intro PHP</title>
 </head>
 <body>
-    <a href="intro.php">Intro PHP</a>
+    <img src="images/img_1.jpg" alt="?????" width = "600" height = "700">
+    <h2>Cyber Spaces ROG</h2>
+    <a href="index.php">Index</a>
 </body>
 </html>
